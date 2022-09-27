@@ -15,7 +15,7 @@ Simply download as a zip file through git
 
 ### Executing program
 
-cd into the flash-card-project-start and then run the following command
+cd into the flash-card-project-start and then run the following command though command line
 ```
 main.py
 ```
